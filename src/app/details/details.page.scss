@@ -1,0 +1,36 @@
+.advertiserImg {
+    height: 150px;
+    width: 102%;
+    overflow: hidden;
+}
+
+ion-header.advertiserImg.md.header-md.hydrated {
+    margin-top: -8px;
+}
+
+ion-img.header_img.ios.hydrated[_ngcontent-khj-c0] {
+    height: 216px;
+    margin-top: -22px;
+}
+
+p.coupon {
+    border: 3px dotted #f1f1f1;
+    padding: 16px;
+    background: rebeccapurple;
+    color: white;
+    width: 72%;
+    height: 10px;
+    text-align: center;
+    line-height: 4px;
+}
+
+// .couponCover {
+//     background: #633296;
+//     color: white;
+//     width: 48%;
+//     height: 30px;
+//     line-height: 4px;
+//     position: absolute;
+//     left: 18px;
+//     top: 80%;
+// }

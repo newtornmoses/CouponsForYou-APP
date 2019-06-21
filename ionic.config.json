@@ -1,0 +1,7 @@
+{
+  "name": "CouponsForYou",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
